@@ -29,5 +29,5 @@ By the end of the exercise, both feature changes should be merged into the `main
 
 The completed repository should contain:
 
-* A short project description
+This project demonstrates collaborative development using Git
 * The names of both contributors
