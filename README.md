@@ -31,3 +31,7 @@ The completed repository should contain:
 
 This project demonstrates collaborative development using Git
 * The names of both contributors
+
+## Contributors
+    Thomcv3
+    real-angelthegamer
