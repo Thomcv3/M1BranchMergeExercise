@@ -21,7 +21,8 @@ Students will practice working with:
 
 ## Contributors
 
-<!-- Developer B: Add the contributor names here. -->
+* Thomcv3
+* real-angelthegamer
 
 ## Exercise Goal
 
@@ -29,9 +30,6 @@ By the end of the exercise, both feature changes should be merged into the `main
 
 The completed repository should contain:
 
-This project demonstrates collaborative development using Git
+* This project demonstrates collaborative development using Git
 * The names of both contributors
-
-## Contributors
-    Thomcv3
-    real-angelthegamer
+    
