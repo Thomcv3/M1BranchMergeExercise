@@ -15,9 +15,9 @@ Students will practice working with:
 * Pulling updated changes
 * Post-merge branch cleanup
 
-## Project Description
+## Description
 
-<!-- Developer A: Add the project description here. -->
+This project demonstrates collaborative development using Git.
 
 ## Contributors
 
